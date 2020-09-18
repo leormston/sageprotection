@@ -1,0 +1,25 @@
+body
+{
+  background-color: #e3f4ff;
+}
+
+.card
+{
+  background-color: white;
+  margin: 5px;
+  padding: 5px;
+  border: solid white 5px;
+  border-radius: 5px;
+}
+
+footer
+{
+  background-color: white;
+  margin-top: 400px;
+  text-align: center;
+  padding: 50px;
+  color: black;
+
+}
+
+a { color: inherit; }
